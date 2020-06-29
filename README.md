@@ -8,7 +8,7 @@ Requirements:
 - RFID Card Reader
 - RFID Cards
 - Two LEDs (should has different colors)
-
+- 5V 1 Channel Relay
 
 You can run it with:
 ```
