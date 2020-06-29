@@ -2,6 +2,7 @@
 Bu proje NodeMCU geliştirme kartı kullanarak RFID kartları okuyup API üzerinden giriş-çıkış verisi tutmanızı ve görüntülemenizi, RFID kart kaydı yapabilmenize yaramaktadır.
 
 Örnek: http://kart-okuyucu.herokuapp.com/
+Örnekteki web sitesine boş veri girmemenizi rica ederim.
 
 Requirements:
 - NodeMCU Kartı
