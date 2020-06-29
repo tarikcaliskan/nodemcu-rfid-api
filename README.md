@@ -12,7 +12,7 @@ Requirements:
 - 5V 1 Channel Relay
 
 Schematic:
-https://imgur.com/a/ZIAgkkb
+![alt_image](https://i.imgur.com/SxzSSjf.png)
 
 You can run it with:
 ```
