@@ -11,6 +11,9 @@ Requirements:
 - Two LEDs (should has different colors)
 - 5V 1 Channel Relay
 
+Schematic:
+https://imgur.com/a/ZIAgkkb
+
 You can run it with:
 ```
 npm run dev
