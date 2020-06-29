@@ -2,8 +2,7 @@
 This project is about NodeMCU IoT Board. You can send your RFID history datas and card ids and also you can monitorize in a list.
 
 Requirements:
-
-NodeMCU Board
+- NodeMCU Board
 - Wires
 - USB Cable
 - RFID Card Reader
