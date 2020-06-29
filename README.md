@@ -1,7 +1,8 @@
 # NodeMCU RFID API (MERN)
 Bu proje NodeMCU geliştirme kartı kullanarak RFID kartları okuyup API üzerinden giriş-çıkış verisi tutmanızı ve görüntülemenizi, RFID kart kaydı yapabilmenize yaramaktadır.
 
-Örnek: http://kart-okuyucu.herokuapp.com/
+Örnek: http://kart-okuyucu.herokuapp.com/ <br/>
+
 Örnekteki web sitesine boş veri girmemenizi rica ederim.
 
 Requirements:
