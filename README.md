@@ -17,6 +17,8 @@ Requirements:
 Şematik:
 ![alt_image](https://i.imgur.com/SxzSSjf.png)
 
+
+Mongo URI'nizi girdikten sonra çalıştırabilirsiniz.
 Çalıştırma komutu:
 ```
 npm run dev
